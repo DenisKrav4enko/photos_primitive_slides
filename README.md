@@ -7,6 +7,6 @@ CSS3; <br>
 JavaScript vanilla; <br>
 
 <h1>Screens:</h1>
-<img src='https://drive.google.com/file/d/1Lda-HIHWb6G7kJx_lLsfNfRq-JNC8uUM/view'
-     style="width: 100%; height: 100%;">
-<img src='https://drive.google.com/file/d/1w5S-JtL8YRMNrSnwkp9hqEMO8iCN63bh/view'>
+![screen_1](https://github.com/DenisKrav4enko/simple_photo_gallery/blob/main/screen_1.jpg)
+<br>
+![screen_1](https://github.com/DenisKrav4enko/simple_photo_gallery/blob/main/screen_2.jpg)
