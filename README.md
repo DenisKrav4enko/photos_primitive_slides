@@ -6,7 +6,6 @@ HTML5; <br>
 CSS3; <br>
 JavaScript vanilla; <br>
 
-<h1>Screens:</h1>
-![screen_1](https://github.com/DenisKrav4enko/simple_photo_gallery/blob/main/screen_1.jpg)
-<br>
-![screen_1](https://github.com/DenisKrav4enko/simple_photo_gallery/blob/main/screen_2.jpg)
+<h3>Screenshots:</h3>
+![screen_1](https://github.com/DenisKrav4enko/simple_photo_gallery/blob/main/screen_1.jpg?raw=true)
+![screen_2](https://github.com/DenisKrav4enko/simple_photo_gallery/blob/main/screen_2.jpg?raw=true)
